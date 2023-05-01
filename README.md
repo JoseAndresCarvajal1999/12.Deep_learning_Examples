@@ -1,6 +1,6 @@
 # 12.Deep_learning_Examples
 
-—This repository showcases the results of several experiments with different Deep Learning techniques. First, in the
+- This repository showcases the results of several experiments with different Deep Learning techniques. First, in the
 context of gender recognition by voice and speech analysis, the
 performance of a Decision Tree learning machine is assessed
 in two scenarios (original feature space vs. reduced dimensions
